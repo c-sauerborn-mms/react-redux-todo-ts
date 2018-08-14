@@ -1,5 +1,4 @@
-
-# react-redux-todo-ts (another modivied v3)
+# react-redux-todo-ts (modified)
 
 This is an example app using typescript, react and redux.
 
